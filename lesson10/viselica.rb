@@ -1,5 +1,4 @@
 require "./methods.rb"
-
 clear
 
 puts "Добро пожаловать в игру Поле Чудес!(v.1)"
