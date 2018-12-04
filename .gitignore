@@ -32,4 +32,4 @@
 
 /public/system
 
-#.env
+.env
